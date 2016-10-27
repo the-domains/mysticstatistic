@@ -1,0 +1,25 @@
+typography_spectrum: 0.5262609208002687
+color:
+  brandStrength: 0.5148469617124647
+  lightness: 0.8326196034904569
+  saturation: 0.119477363768965
+  rhythmicContrast: 0.38708700123243034
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+github: true
+layout_spectrum: 0.1463931305333972
+author:
+  name: Mystic
+  email: johnkelly.main@gmail.com
+name: mysticstatistic
+title: 'number, stats, and sexy times!'
+content: []
+description: (but there's no sexy times.)
+purpose:
+  - type: contact
+    url: 'mailto:johnkelly.main@gmail.com'
+    label: Contact me
