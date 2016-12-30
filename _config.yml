@@ -1,4 +1,3 @@
-layout_spectrum: 0.49095970207355033
 typography_spectrum: 0.6762526703009955
 color:
   brandStrength: 0.40875683811880503
@@ -12,6 +11,7 @@ color:
     - '#4AD9D9'
     - '#36B1BF'
 github: true
+layout_spectrum: 0.49095970207355033
 author:
   name: Mystic
   email: johnkelly.main@gmail.com
@@ -23,3 +23,6 @@ purpose:
   - type: contact
     url: 'mailto:johnkelly.main@gmail.com'
     label: Contact me
+  - type: contact
+    url: 'tel:07808014470'
+    label: Call 07808014470
