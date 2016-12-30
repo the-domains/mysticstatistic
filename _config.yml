@@ -1,17 +1,17 @@
-typography_spectrum: 0.6762526703009955
+layout_spectrum: 0.0942682936585665
+typography_spectrum: 0.5989055317140525
 color:
-  brandStrength: 0.40875683811880503
-  lightness: 0.3748387973029904
-  saturation: 0.5187689873024748
-  rhythmicContrast: 0.6967492734714604
+  brandStrength: 0.13748945845493882
+  lightness: 0.3601281377937792
+  saturation: 0.3945618999767864
+  rhythmicContrast: 0.219388227790299
   brandColors:
-    - '#F2385A'
-    - '#F5A503'
-    - '#E9F1DF'
-    - '#4AD9D9'
-    - '#36B1BF'
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
 github: true
-layout_spectrum: 0.49095970207355033
 author:
   name: Mystic
   email: johnkelly.main@gmail.com
