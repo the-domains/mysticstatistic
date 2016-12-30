@@ -1,4 +1,3 @@
-layout_spectrum: 0.0942682936585665
 typography_spectrum: 0.5989055317140525
 color:
   brandStrength: 0.13748945845493882
@@ -12,6 +11,7 @@ color:
     - '#FFE11A'
     - '#FD7400'
 github: true
+layout_spectrum: 0.0942682936585665
 author:
   name: Mystic
   email: johnkelly.main@gmail.com
