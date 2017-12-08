@@ -1,17 +1,19 @@
-typography_spectrum: 0.494194381847369
+layout_spectrum: 0.6048671443854449
+typography_spectrum: 0.29104242160289295
 color:
-  brandStrength: 0.18256750035551514
-  lightness: 0.35982303118868036
-  saturation: 0.8682992541599134
-  rhythmicContrast: 0.1702842398826033
+  brandStrength: 0.0900758560853872
+  lightness: 0.12002510019688692
+  saturation: 0.6917423928706067
+  rhythmicContrast: 0.09704765772115033
   brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
+    - '#10222B'
+    - '#95AB63'
+    - '#BDD684'
+    - '#E2F0D6'
+    - '#F6FFE0'
+coverPrefs:
+  filter: false
 github: true
-layout_spectrum: 0.6187376189819251
 author:
   name: Mystic
   email: johnkelly.main@gmail.com
@@ -23,8 +25,6 @@ navigation:
     type: content
 title: that mystic statistic...
 content: []
-coverPrefs:
-  filter: false
 description: some data dudes rambling
 purpose:
   - type: contact
