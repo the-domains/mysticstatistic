@@ -1,20 +1,20 @@
 ---
 inFeed: true
-description: 'Here’s me, testing a powerbi embed.'
-dateModified: '2017-12-08T20:17:21.426Z'
-datePublished: '2017-12-08T20:17:22.215Z'
+description: Things that make you go  MMMMMMM
+dateModified: '2017-12-08T20:53:03.934Z'
+datePublished: '2017-12-08T20:53:05.002Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-isBasedOnUrl: >-
-  https://the-grid.github.io/ed-userhtml/?g=eJwlz-FOwjAUQOFXWfoArDjRYCjGMCVddmeIDWT9N7a63tLapRQbfXoJPsH5zgo_Q-dUlnCImpFlUZBMKxx1ZOSRUpKdQ8-IjnE6P-V5N02zyScVjjjrvcu_UaXnwNRPFbjx2Iq9fRe71AiIjYOi2VAqzYC10CdwEEG8LOAAv2D6-1ZIy_Ga3fAHbgYjt1BII219eKVQ7mKz3Z8A57oVla0FX8hyvIOyciDGeYvVkmQ3-NGHQQVGrtLOWp_eLtZ-9EGpL0ZiuCiyXuX_i-s_V1ZPDw
+sourcePath: _posts/2017-12-08-heres-me-testing-a-powerbi-embed.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-12-08T20:17:22.215Z'
-sourcePath: _posts/2017-12-08-heres-me-testing-a-powerbi-embed.md
-_type: MediaObject
+url: power-bi-report/index.html
+_type: Article
 
 ---
-Here's me, testing a powerbi embed.
+Things that make you go MMMMMMM
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlz-FOwjAUQOFXWfoArDjRYCjGMCVddmeIDWT9N7a63tLapRQbfXoJPsH5zgo_Q-dUlnCImpFlUZBMKxx1ZOSRUpKdQ8-IjnE6P-V5N02zyScVjjjrvcu_UaXnwNRPFbjx2Iq9fRe71AiIjYOi2VAqzYC10CdwEEG8LOAAv2D6-1ZIy_Ga3fAHbgYjt1BII219eKVQ7mKz3Z8A57oVla0FX8hyvIOyciDGeYvVkmQ3-NGHQQVGrtLOWp_eLtZ-9EGpL0ZiuCiyXuX_i-s_V1ZPDw" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlz2FqwjAUAOCrlBzA1qmDDauI3SSlryJ7KM2_2mb2xWQpz7jgTj_YbvB9S_rk1unkxl0uhhDG22uatuM4GX3UfKZJ5136TTquOdePkqXx1ODR7vEQa4RQO5jV2yxTpqcKhys4CICbBZzgB0w3b1BZSZH6rXyWpjdqBzNllK1ObxkUh1Dvjleg6dBgaSuUC1VcnqAoHeBl2lD5IpI_39lzrzkXmUhaa318v1v70bHWX7kIfNditUz_J6tfF4ZH_g" height="700" style=""></iframe>
