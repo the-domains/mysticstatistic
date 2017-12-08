@@ -1,4 +1,3 @@
-layout_spectrum: 0.6187376189819251
 typography_spectrum: 0.494194381847369
 color:
   brandStrength: 0.18256750035551514
@@ -11,15 +10,21 @@ color:
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
-coverPrefs:
-  filter: false
 github: true
+layout_spectrum: 0.6187376189819251
 author:
   name: Mystic
   email: johnkelly.main@gmail.com
 name: mysticstatistic
+url: 'http://mysticstatistic.com'
+navigation:
+  - name: a tested embed
+    id: 183fdea4-22d3-4422-82b0-9699c1527226
+    type: content
 title: that mystic statistic...
 content: []
+coverPrefs:
+  filter: false
 description: some data dudes rambling
 purpose:
   - type: contact
@@ -28,4 +33,3 @@ purpose:
   - type: contact
     url: 'tel:07808014470'
     label: Call 07808014470
-url: 'http://mysticstatistic.com'
