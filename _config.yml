@@ -29,7 +29,7 @@ description: some data dudes rambling
 purpose:
   - type: contact
     url: 'mailto:johnkelly.main@gmail.com'
-    label: Contact me
+    label: Email me
   - type: contact
     url: 'tel:07808014470'
     label: Call me
