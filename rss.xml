@@ -4,16 +4,9 @@
         <description><![CDATA[that mystic statistic...]]></description>
         <link>http://mysticstatistic.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Dec 2017 20:53:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2017 21:04:30 GMT</lastBuildDate>
         <atom:link href="http://mysticstatistic.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 08 Dec 2017 20:53:05 GMT</pubDate>
-        <item>
-            <title><![CDATA[Power BI Report]]></title>
-            <description><![CDATA[<p>Things that make you go  MMMMMMM</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlz2FqwjAUAOCrlBzA1qmDDauI3SSlryJ7KM2_2mb2xWQpz7jgTj_YbvB9S_rk1unkxl0uhhDG22uatuM4GX3UfKZJ5136TTquOdePkqXx1ODR7vEQa4RQO5jV2yxTpqcKhys4CICbBZzgB0w3b1BZSZH6rXyWpjdqBzNllK1ObxkUh1Dvjleg6dBgaSuUC1VcnqAoHeBl2lD5IpI_39lzrzkXmUhaa318v1v70bHWX7kIfNditUz_J6tfF4ZH_g" height="700"></iframe>]]></description>
-            <link>http://mysticstatistic.com/power-bi-report/index.html</link>
-            <guid isPermaLink="false">183fdea4-22d3-4422-82b0-9699c1527226</guid>
-            <pubDate>Fri, 08 Dec 2017 20:17:22 GMT</pubDate>
-        </item>
+        <pubDate>Fri, 08 Dec 2017 21:04:28 GMT</pubDate>
         <item>
             <title><![CDATA[SSRS renders PowerBI on premise... or does it?]]></title>
             <description><![CDATA[<p>Well not quite. But soon I hope. So there's an announcement ages ago that MS are wanting to converge their BI offering on prem and in the cloud. Quite whether this convergence will be total is to be seen (and to be honest, quite unlikely) but today we have access to the first real output of that workstream; a hyper-v image of powerbi rendererd within SSRS!</p>,<p>Now I don’t want to sound like a miserable sod, because I am really *really* happy about this! but this release filled me with equal parts dread and excitement. Excited because I work as a business intelligence architect, and I have already *gambled* on delivering BI through PowerBI for our organisation, and we’re primarily on premise. But that’s also the reason it filled me with dread - *only* live connections to tabular models? no custom visuals? no preview CTP for local install?</p>,<p>I needn’t worry the guys @riccardomuti works with are slick, and this is great progress and I realise that this is more me being impatient and them trickling out stable demo’s of something that will be huge for med-large established orgs with already a big on premise infrastructure… but yea, I had hoped for more.</p>,<p>Until then, I’ll be spinning up an azure VM and having a blast, and urge you to try it out as well. Patience aside PowerBI is an awesome platform and having it move to on premise content delivery will mean a surge in uptake - which is already massive.</p>,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8548d83c51dbfd2c7a3ee1d2127d9f0d1c1876ae.jpg" title="SSRS renders PowerBI on premise... or does it?">]]></description>
