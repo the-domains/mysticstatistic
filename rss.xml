@@ -4,16 +4,9 @@
         <description><![CDATA[that mystic statistic...]]></description>
         <link>http://mysticstatistic.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Dec 2017 21:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jan 2018 21:43:46 GMT</lastBuildDate>
         <atom:link href="http://mysticstatistic.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 08 Dec 2017 21:13:22 GMT</pubDate>
-        <item>
-            <title><![CDATA[Power BI Report]]></title>
-            <description><![CDATA[<p>Things that make you go MMMMMMM</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlj91OwjAYQF9l6QOwIj9RQzGEKemyb4bYQNa7sdX1K61dSrHRpxf18lydc1b4HlqnsoR91IzcU0oyrXDQkZHlL1xCx4iOcbw85nk7jpPRJxVOOOm8yz9RpafA1FcZuPHYiIN9FftUC4i1g1m9pVSaHiuhz-Aggtgs4AjfYLp5I6TleNNu-ZKb3sgdzKSRtjo-Uyj2sd4dzoBT3YjSVoIvZDHcQVE6EMO0wfKBZH_hJx96FRi5lbbW-vRytfatC0p9MBLDVZH1Kv9fXP8AUIxPBw" height="600"></iframe>]]></description>
-            <link>http://mysticstatistic.com/power-bi-report/index.html</link>
-            <guid isPermaLink="false">183fdea4-22d3-4422-82b0-9699c1527226</guid>
-            <pubDate>Fri, 08 Dec 2017 21:13:21 GMT</pubDate>
-        </item>
+        <pubDate>Sun, 28 Jan 2018 21:43:45 GMT</pubDate>
         <item>
             <title><![CDATA[PowerPork/PowerBI]]></title>
             <description><![CDATA[<p>So a colleague and I pulled together a powerbi file that leverages the Rosette API - a text analytics service with a free tier pricing model. We use it to analyse groups of text for local government, typically social care outputs and thought it might be useful for others… so feel free to download and use. It’s got an example in there for your viewing pleasure.</p>,<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/ffcfc16a817adad73e4278fef27b80e9/noop?input=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F23039305%3Fv%3D3%26s%3D400"><h1>PowerPork/PowerBI</h1><p>PowerBI stuff</p></article>]]></description>
