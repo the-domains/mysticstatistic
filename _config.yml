@@ -19,10 +19,6 @@ author:
   email: johnkelly.main@gmail.com
 name: mysticstatistic
 url: 'http://mysticstatistic.com'
-navigation:
-  - name: a tested embed
-    id: 183fdea4-22d3-4422-82b0-9699c1527226
-    type: content
 title: that mystic statistic...
 content: []
 description: some data dudes rambling
