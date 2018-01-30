@@ -56,6 +56,3 @@ purpose:
   - type: contact
     url: 'mailto:johnkelly.main@gmail.com'
     label: Email me
-  - type: contact
-    url: 'tel:07808014470'
-    label: Call me
