@@ -1,19 +1,19 @@
 ---
+title: 'The grind : Idea Generation (1 of 6)'
+datePublished: '2018-01-30T22:50:47.033Z'
+dateModified: '2018-01-30T22:50:45.620Z'
+publisher: {}
+author: []
 inFeed: true
+hasPage: true
 description: >-
   So for my first blog I thought I'd talk you through our delivery cycle, with
   one blog per section, stuff we do as a team and any lessons we've learnt that
   we might spare you from being burnt from. The sections as we see them are
-dateModified: '2018-01-30T22:19:19.810Z'
-datePublished: '2018-01-30T22:19:20.651Z'
-title: 'The grind : Idea Generation (1 of 6)'
-author: []
-publisher: {}
 via: {}
-hasPage: true
-sourcePath: _posts/2018-01-30-the-cycle-a-blog-series.md
 starred: false
 datePublishedOriginal: '2018-01-30T22:19:20.651Z'
+sourcePath: _posts/2018-01-30-the-cycle-a-blog-series.md
 url: the-grind-idea-generation-1-of-6/index.html
 _type: Article
 
@@ -42,7 +42,7 @@ If this is your first read, i'd recommend reading the "about me" section, as it'
 
 Techniques and things I've looked out for, my approach in inspiring our customers, and tools we used to do that. Some superlatives, grammar errors and a smidge of excitement.
 
-If your organisation is anything like mine, or in the same maturity position as ours, you'll recognise those that have a strong compulsion to be data driven and those a little more resistant and only engage with data to the degree that have to. There are different techniques I have used, and obviously the more difficult group to tackle are the detractors. But fear not!!! Despite the fact to start with my only weapon to use in this battle was a flurry of superlatives (which ended up in my team being referred to as "team awesome") I've learnt a little here. What you'll read in this post are techniques and things I've looked out for, my approach in inspiring our customers, and tools we used to do that.
+If your organisation is anything like mine, or in the same maturity position as ours, you'll recognise those people that have a strong compulsion to be data driven and those a little more resistant and only engage with data to the degree that have to. There are different techniques I have used, and obviously the more difficult group to tackle are the detractors. But fear not!!! Despite the fact to start with my only weapon to use in this battle was a flurry of superlatives (which ended up in my team being referred to as "team awesome") I've learnt a little here. What you'll read in this post are techniques and things I've looked out for, my approach in inspiring our customers, and tools we used to do that.
 
 ### **To introduce people to what they want, make it easier to access what they need**
 
