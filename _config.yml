@@ -55,7 +55,7 @@ description: some data dudes rambling
 purpose:
   - type: contact
     url: 'mailto:johnkelly.main@gmail.com'
-    label: Email me
+    label: email me
   - type: internal
     label: about me
     item: 84a914e3-b9a2-44e2-88b8-19407ebe9cd7
