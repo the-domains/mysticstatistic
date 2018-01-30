@@ -1,19 +1,19 @@
 ---
-title: 'The grind : Idea Generation (1 of 6)'
-datePublished: '2018-01-30T22:50:47.033Z'
-dateModified: '2018-01-30T22:50:45.620Z'
-publisher: {}
-author: []
 inFeed: true
-hasPage: true
 description: >-
   So for my first blog I thought I'd talk you through our delivery cycle, with
   one blog per section, stuff we do as a team and any lessons we've learnt that
   we might spare you from being burnt from. The sections as we see them are
+dateModified: '2018-01-30T22:58:14.172Z'
+datePublished: '2018-01-30T22:58:15.370Z'
+title: 'The grind : Idea Generation (1 of 6)'
+author: []
+publisher: {}
 via: {}
+hasPage: true
+sourcePath: _posts/2018-01-30-the-cycle-a-blog-series.md
 starred: false
 datePublishedOriginal: '2018-01-30T22:19:20.651Z'
-sourcePath: _posts/2018-01-30-the-cycle-a-blog-series.md
 url: the-grind-idea-generation-1-of-6/index.html
 _type: Article
 
@@ -42,7 +42,7 @@ If this is your first read, i'd recommend reading the "about me" section, as it'
 
 Techniques and things I've looked out for, my approach in inspiring our customers, and tools we used to do that. Some superlatives, grammar errors and a smidge of excitement.
 
-If your organisation is anything like mine, or in the same maturity position as ours, you'll recognise those people that have a strong compulsion to be data driven and those a little more resistant and only engage with data to the degree that have to. There are different techniques I have used, and obviously the more difficult group to tackle are the detractors. But fear not!!! Despite the fact to start with my only weapon to use in this battle was a flurry of superlatives (which ended up in my team being referred to as "team awesome") I've learnt a little here. What you'll read in this post are techniques and things I've looked out for, my approach in inspiring our customers, and tools we used to do that.
+If your organisation is anything like mine, or in the same maturity position as ours, you'll recognise those that have a strong compulsion to be data driven and those a little more resistant and only engage with data to the degree that have to. There are different techniques I have used, and obviously the more difficult group to tackle are the detractors. But fear not!!! Despite the fact to start with my only weapon to use in this battle was a flurry of superlatives (which ended up in my team being referred to as "team awesome") I've learnt a little here. What you'll read in this post are techniques and things I've looked out for, my approach in inspiring our customers, and tools we used to do that.
 
 ### **To introduce people to what they want, make it easier to access what they need**
 
@@ -50,11 +50,13 @@ Everyone NEEDS to see their performance. Most organisations are somewhere in per
 
 ### **Give them something they never asked for**
 
-I pretty much make this a staple for every project. If we as a team of data experts can't think of something that the services didn't specify but would add value then we need to give our heads a shake. If that's a piece of data, or helping them understand their demand seasonality with a suite of visuals it's an important way of making your customer realise that something different can be done with their data. We've recently done this in a social care service - we are currently revamping all of the data products our adult social care teams can see. I kicked off a piece of work to visualise the referral pathway end to end, which sat across the top of these individual dashboards, and provided a perspective of the customers journey the service from initial contact to service completion that the service had never seen before. They are now able to identify customers that experience a non standard journey, and review those promptly and this knowledge wasn't visible before. Lost.
+I pretty much make this a staple for every project. If we as a team of data experts can't think of something that the services didn't specify but would add value then we need to give our heads a shake. If that's a piece of data, or helping them understand their demand seasonality with a suite of visuals it's an important way of making your customer realise that something different can be done with their data. We've recently done this in a social care service - we are currently revamping all of the data products our adult social care teams can see. I kicked off a piece of work to visualise the referral pathway end to end, which sits across the top of the services, and provided a perspective of the customers journey from initial contact to completion that the organisation had never seen before. We are now able to identify customers that experience a non standard journey (maybe it took longer than planned, maybe they bobbed about a bit in the service unintentionally), and review those much more quickly or even stop them happenning at all. This knowledge wasn't visible before. Lost.
 
 ### **Provide data with operational value, not just analytical value**
 
-I hate hate hate the connotation of dashboards so much that I refer to things we produce as data or intelligence product because it might be a dashboard, but it might be a data driven alert, or a workflow process. But bigger than that, I hate being shoehorned into thinking BI tools provide an interesting view of the past. Data is locked away in systems that can help operational, day to day decisions too, and I think that's the place they need to be deployed. We're looking at something right now, it's an integrated project, crossing over Master Data Management and some pretty innovative network relationship mapping - which will provide a report driven, google-esque view to our front door. When a child referral presents, this product will allow someone to search quickly and get relevant intelligence back within a few seconds. Family members, extended (data mined, it's super sexy!) network included identified risks, closeness to risks, geographic considerations, previous contact history and tons of other stuff that's weighted by potential relevance and something that would take 30 minutes easy to gather by navigating the front end systems. THIS is what powerBI is all about. THIS is what you should focus on. THIS is the sort of thing that could maybe even provide the intelligence to improve a child's life.
+I hate hate hate the connotation of dashboards so much that I refer to things we produce as data or intelligence product because it might be a dashboard, but it might be a data driven alert, or a workflow process. But bigger than that, I hate being shoehorned into thinking BI tools provide an interesting view of the past. Data is locked away in systems that can help operational, day to day decisions too, and I think that's the place they need to be deployed. 
+
+We're looking at a project right now, which will use Master Data Management and some pretty innovative data mining - to provide a report driven, google-esque view to the team that deal with referrals for children right at the first contact. When a child referral presents, this product will allow someone to search quickly and get relevant intelligence back within a few seconds. Family members, extended (data mined, it's super sexy!) network included identified risks (peodophiles, known Child Sexual Exploitation risks etc), closeness to those risks, geographic considerations, previous contact history and tons of other stuff that would take 30 minutes easy to gather by traditionally navigating the front end systems. THIS is what powerBI is all about. THIS is what you should focus on. THIS is the sort of thing that could maybe even provide the intelligence to improve a child's life.
 
 ### **Try to find stuff your customer hasn't realised would be of value**
 
