@@ -4,8 +4,8 @@ description: >-
   So for my first blog I thought I'd talk you through our delivery cycle, with
   one blog per section, stuff we do as a team and any lessons we've learnt that
   we might spare you from being burnt from. The sections as we see them are
-dateModified: '2018-01-30T22:58:14.172Z'
-datePublished: '2018-01-30T22:58:15.370Z'
+dateModified: '2018-01-30T23:00:49.910Z'
+datePublished: '2018-01-30T23:00:51.346Z'
 title: 'The grind : Idea Generation (1 of 6)'
 author: []
 publisher: {}
@@ -46,7 +46,7 @@ If your organisation is anything like mine, or in the same maturity position as 
 
 ### **To introduce people to what they want, make it easier to access what they need**
 
-Everyone NEEDS to see their performance. Most organisations are somewhere in performance, some review it quarterly some daily... but everyone loves a good benchmark, a slick trend line or some phat traffic lights. They need it because it's one of the areas their line management demands vertical transparency. A technique I've used in the past is to pick a particular measure and explode it - organise a session (see innovation hour later in this blog) to kick about how this measure could be best analysed. I'd recommend your thinking to be focussed bias to the end result - we work in a local authority but services are complex, so it's really easy to lose track in the impact to customer, but it's really powerful to drag that back. Often services have no clue about their types of customer, or intelligence about driving demand... so factoring in socio economic data is always a win, or indices of deprivation. Link it back to what drives their demand or influences their profit
+Everyone NEEDS to see their performance. Most organisations are somewhere in performance, some review it quarterly some daily... but everyone loves a good benchmark, a slick trend line or some phat traffic lights. They need it because it's one of the areas their line management demands vertical transparency. A technique I've used in the past is to pick a particular measure and explode it - organise a session (see innovation hour later in this blog) to kick about how this measure could be best analysed. I'd recommend your thinking to be focussed bias to the end result - we work in a local authority and services are complex so it's really easy to lose track of the impact to customer our day to day decisions have. We can use data to create that cause and effect view, back to centre on the customer. Often services have no clue about their types of customer, or intelligence about what might be driving demand... so factoring in socio economic data is always a win, or indices of deprivation. Link it back to what drives their demand or influences their profit. Arming a service with more insight into why and not just 'what' is a powerful thing.
 
 ### **Give them something they never asked for**
 
