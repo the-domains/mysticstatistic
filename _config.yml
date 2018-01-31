@@ -1,17 +1,19 @@
-typography_spectrum: 0.9096295643090686
+layout_spectrum: 0.19541788064367552
+typography_spectrum: 0.9830052029702923
 color:
-  brandStrength: 0.8624461497755556
-  lightness: 0.6355742091268743
-  saturation: 0.8572064769389753
-  rhythmicContrast: 0.2615163666771559
+  brandStrength: 0.5984202507911895
+  lightness: 0.4774576600777483
+  saturation: 0.6750566427912195
+  rhythmicContrast: 0.31236503673385424
   brandColors:
-    - '#10222B'
-    - '#95AB63'
-    - '#BDD684'
-    - '#E2F0D6'
-    - '#F6FFE0'
+    - '#D8CAA8'
+    - '#5C832F'
+    - '#284907'
+    - '#382513'
+    - '#363942'
+coverPrefs:
+  filter: false
 github: true
-layout_spectrum: 0.2677571942733767
 analytics:
   google: UA-113319641-1
 author:
@@ -49,8 +51,6 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-coverPrefs:
-  filter: false
 description: some data dudes rambling
 purpose:
   - type: contact
