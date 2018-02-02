@@ -7,8 +7,8 @@ description: >-
   customer. Customer is, after all… King. You're also going to learn than 6
   months after setting up a new team, certain process are still quite fluid and
   dynamic as we settle into what works for us.
-dateModified: '2018-02-02T21:37:35.799Z'
-datePublished: '2018-02-02T21:37:45.236Z'
+dateModified: '2018-02-02T21:39:53.827Z'
+datePublished: '2018-02-02T21:39:54.588Z'
 title: Planning Intelligence Product (2 of 6)
 author: []
 publisher: {}
@@ -16,7 +16,7 @@ via: {}
 hasPage: true
 sourcePath: _posts/2018-02-02-planning-intelligence-product-2-of-6.md
 starred: false
-datePublishedOriginal: '2018-02-02T21:37:45.236Z'
+datePublishedOriginal: '2018-02-02T21:39:52.491Z'
 url: planning-intelligence-product-2-of-6/index.html
 _type: Article
 
@@ -76,3 +76,5 @@ That discussion then is fed up to a directorate board, where we can challenge an
 ## What have we learned boys & girls?
 
 So that's our planning cycle. I've told you about the journey we've been on, some of the challenges we faced and continue to face. The technology we use and process... the engagement model which teases our planning, and escalation and prioritisation process. What I haven't talked about is technology and solution planning and I'll cover that in the next blog. I'd challenge anybody that said their model worked brilliantly while at the same time moving at a good pace, and I stand by the decisions we've made and steps we've taken. We've work to do, but we're becoming much more robust daily. Fun fun fun!!!
+
+Also the next blog post will be more interesting for the more technical of you out there : solution design and delivery process.
