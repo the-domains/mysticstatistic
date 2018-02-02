@@ -7,8 +7,8 @@ description: >-
   customer. Customer is, after all… King. You're also going to learn than 6
   months after setting up a new team, certain process are still quite fluid and
   dynamic as we settle into what works for us.
-dateModified: '2018-02-02T21:58:07.413Z'
-datePublished: '2018-02-02T21:58:08.058Z'
+dateModified: '2018-02-02T22:00:36.124Z'
+datePublished: '2018-02-02T22:00:36.883Z'
 title: Planning Intelligence Product (2 of 6)
 author: []
 publisher: {}
