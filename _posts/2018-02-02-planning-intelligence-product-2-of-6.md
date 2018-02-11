@@ -7,8 +7,8 @@ description: >-
   customer. Customer is, after all… King. You're also going to learn than 6
   months after setting up a new team, certain process are still quite fluid and
   dynamic as we settle into what works for us.
-dateModified: '2018-02-11T20:30:55.936Z'
-datePublished: '2018-02-11T20:30:56.662Z'
+dateModified: '2018-02-11T20:34:54.937Z'
+datePublished: '2018-02-11T20:34:56.133Z'
 title: Planning Intelligence Product (2 of 6)
 author: []
 publisher: {}
@@ -78,4 +78,4 @@ So that's our planning cycle. I've told you about the journey we've been on, som
 
 Also the next blog post will be more interesting for the more technical of you out there : solution design and delivery process.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx9U11vozAQfOdXrHIPkFwL7w3NiQan5QQmAnJVnyoHO8UnvopNquja_35LSdJKPR2ykO0dz3hn1y6Xe5D8esKleu7Voy46wfhk4ToYWBiuyjvZ6oVhOLOZMQNIyDKOIkJ94sMypqvgdpN4WRBT-OUlgXcTkvQKiB9k4FEfNnREZ5DdEUjJ8h15Q8L4HrIYApqSJAP_gXpRsESGcENSWCVxBA_xJoF16GWrOIkgTmAZpfZwgZB4CYX7uwfwySqgAb0duFPyoQ8BjmgdJ5lHsysotG7VleOMCdp5UzmMV7J2-lruRadYmTdcON_ypt7Jp75jWjb15Z51km1LoWYOpm7gEo4OjTi4hl1f5wMWrCn8MXQhld2yJ2H3XYnRtXdLHjdJOAdwHEhEW7JcnHfhReoCDk3fwXDGVJCzuqllzkoYwif5T7SSi1rLnRTdiT3w0dlgFZBk_kXjI_ZVChN_7gV8IjzLvc0NTNg6pTZkNlD7MTWzsazH4t2hyWFAyegM3og3eV8h4QWoYWXn2EdakFIMm5Y59pE5nRvKVl2OEPNUmOqgtMyVRuOHif2pUKLaCm7_Vub7MaE9rTu57bWwTM40u9SyEniwas0L-F6LF_BR05qiisXtAhsZXl_xLtuGH6Y2a1tR82UhS24phLxNLfy7zqnF3bo5TtelYEqAqAdP4Cfbs_Q9ALqBvUQZXQhwGeBb2V1P_tFgPzDweKKbLHBrcEFB27yITnDYHsAf0a7D8K2dlQ34z_cXECgpmw" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtU11vmzAUfedXXGUPkKwFaY8NzUSDkzLxEQFZ1afIwU7xxFexSRWt_e-7Lk1XrZMQsn2Pz7n33GuXiSMIdj1hQj4OcqfKnlM2WbgOBhaGK4tedGphGM5sZswAUrJMoojEPvFhmcSrYL1NvTxIYvjppYF3E5LsCogf5ODFPmzjEZ1DfksgI8tX5A0JkzvIEwjijKQ5-PexFwVLZAi3JINVmkRwn2xT2IRevkrSCJIUllFm6wRC4qUx3N3eg09WQRzEa82dkb_6EOAXbZI09-L8CkqlOnnlOGOBdtHWDmW1aJyhEUfeS1oVLePOl6JtDuJh6KkSbXN5pL2g-4rLmYOlG7iFN4dGHFzDYWgKjQVrCr8NVQppd_SB20NfYVTLomp9kkoUUiGrXmj5OYDjQMq7ihYcNt6a7LZpCE9ClXBqhx40iymhoE3biIJWoMPnhD4ICcYbJQ6C96j3bf6JNfDR-WAVkPQzORb_OHD4QPEu8DI3sGjrXJ6uTlP7SWzmY2vfGniLRodBTEZ3MAfWFkONhBcg9c4ucJYUJxXXh5Y5zpI5nRvSln2BEPPcnH9t-tAsXu85s39J8_UaV55SvdgPilsmo4peKlFzvFh35gV8bfgT-KhpTVHFYnaJwwzPz5jLvmWnqU27jjdsWYqKWRIhL1ML_65zHnO3ad-Wm4pTyYE32hP4QY80ew2AauEoUEaVHFwK-F4O15P_DNl3DOzOdJMFHmkXJHTtE-85g_0J_BHtOhTf27vyH-TVKas" height="244" style=""></iframe>
