@@ -7,8 +7,8 @@ description: >-
   customer. Customer is, after all… King. You're also going to learn than 6
   months after setting up a new team, certain process are still quite fluid and
   dynamic as we settle into what works for us.
-dateModified: '2018-02-11T20:34:54.937Z'
-datePublished: '2018-02-11T20:34:56.133Z'
+dateModified: '2018-02-11T20:41:05.072Z'
+datePublished: '2018-02-11T20:41:06.554Z'
 title: Planning Intelligence Product (2 of 6)
 author: []
 publisher: {}
@@ -78,4 +78,4 @@ So that's our planning cycle. I've told you about the journey we've been on, som
 
 Also the next blog post will be more interesting for the more technical of you out there : solution design and delivery process.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtU11vmzAUfedXXGUPkKwFaY8NzUSDkzLxEQFZ1afIwU7xxFexSRWt_e-7Lk1XrZMQsn2Pz7n33GuXiSMIdj1hQj4OcqfKnlM2WbgOBhaGK4tedGphGM5sZswAUrJMoojEPvFhmcSrYL1NvTxIYvjppYF3E5LsCogf5ODFPmzjEZ1DfksgI8tX5A0JkzvIEwjijKQ5-PexFwVLZAi3JINVmkRwn2xT2IRevkrSCJIUllFm6wRC4qUx3N3eg09WQRzEa82dkb_6EOAXbZI09-L8CkqlOnnlOGOBdtHWDmW1aJyhEUfeS1oVLePOl6JtDuJh6KkSbXN5pL2g-4rLmYOlG7iFN4dGHFzDYWgKjQVrCr8NVQppd_SB20NfYVTLomp9kkoUUiGrXmj5OYDjQMq7ihYcNt6a7LZpCE9ClXBqhx40iymhoE3biIJWoMPnhD4ICcYbJQ6C96j3bf6JNfDR-WAVkPQzORb_OHD4QPEu8DI3sGjrXJ6uTlP7SWzmY2vfGniLRodBTEZ3MAfWFkONhBcg9c4ucJYUJxXXh5Y5zpI5nRvSln2BEPPcnH9t-tAsXu85s39J8_UaV55SvdgPilsmo4peKlFzvFh35gV8bfgT-KhpTVHFYnaJwwzPz5jLvmWnqU27jjdsWYqKWRIhL1ML_65zHnO3ad-Wm4pTyYE32hP4QY80ew2AauEoUEaVHFwK-F4O15P_DNl3DOzOdJMFHmkXJHTtE-85g_0J_BHtOhTf27vyH-TVKas" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkdFLwzAQxt_7V4QKawtb6qZTce3AwRBBfPJNRLLkumVbk5K7Fof4v3t1FXzL3f24fN93hbGdsKaMq80keE_xssi5tYwK1ME2tEyr1mmy3qVmLHDMbCa-IiE6FcSe62qPohRGboHWR6jBEa5Or2r7ompIMXu7fF8wbSuR_mdWpyeT8qpMBKA2uJ4ZFukAimDgeMOCB9IanllzxiQGzWWyI2rwPs-1dw40yUpp2Hh_kA4oB_fxuMrRHOQeLz6rTX0sp6MOArKVspvJ6WykmubJlDd38-vZ_Pr2bj69upldjVRL_tlvH5pm3fVuymnSf8s-ZaMCd168AWkdQqAVVD5AOuSQLaLv1Hjd9srHIjknmPDrT9lkj6woybJFkQ_5RlFU9DfQR4X4ewbt698YY2EUqckuQFXGvVe2Wp-QrEZSZPuHZDYfONfWjUfWG8__jvgDfAqc5Q" height="244" style=""></iframe>
