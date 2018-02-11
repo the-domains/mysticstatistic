@@ -7,8 +7,8 @@ description: >-
   customer. Customer is, after all… King. You're also going to learn than 6
   months after setting up a new team, certain process are still quite fluid and
   dynamic as we settle into what works for us.
-dateModified: '2018-02-11T20:06:46.978Z'
-datePublished: '2018-02-11T20:06:48.262Z'
+dateModified: '2018-02-11T20:30:55.936Z'
+datePublished: '2018-02-11T20:30:56.662Z'
 title: Planning Intelligence Product (2 of 6)
 author: []
 publisher: {}
@@ -78,4 +78,4 @@ So that's our planning cycle. I've told you about the journey we've been on, som
 
 Also the next blog post will be more interesting for the more technical of you out there : solution design and delivery process.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkdFLwzAQxt_7V4QKawtb6qZTce3AwRBBfPJNRLLkumVbk5K7Fof4v3t1FXzL3f24fN93hbGdsKaMq80keE_xssi5tYwK1ME2tEyr1mmy3qVmLHDMbCa-IiE6FcSe62qPohRGboHWR6jBEa5Or2r7ompIMXu7fF8wbSuR_mdWpyeT8qpMBKA2uJ4ZFukAimDgeMOCB9IanllzxiQGzWWyI2rwPs-1dw40yUpp2Hh_kA4oB_fxuMrRHOQeLz6rTX0sp6MOArKVspvJ6WykmubJlDd38-vZ_Pr2bj69upldjVRL_tlvH5pm3fVuymnSf8s-ZaMCd168AWkdQqAVVD5AOuSQLaLv1Hjd9srHIjknmPDrT9lkj6woybJFkQ_5RlFU9DfQR4X4ewbt698YY2EUqckuQFXGvVe2Wp-QrEZSZPuHZDYfONfWjUfWG8__jvgDfAqc5Q" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx9U11vozAQfOdXrHIPkFwL7w3NiQan5QQmAnJVnyoHO8UnvopNquja_35LSdJKPR2ykO0dz3hn1y6Xe5D8esKleu7Voy46wfhk4ToYWBiuyjvZ6oVhOLOZMQNIyDKOIkJ94sMypqvgdpN4WRBT-OUlgXcTkvQKiB9k4FEfNnREZ5DdEUjJ8h15Q8L4HrIYApqSJAP_gXpRsESGcENSWCVxBA_xJoF16GWrOIkgTmAZpfZwgZB4CYX7uwfwySqgAb0duFPyoQ8BjmgdJ5lHsysotG7VleOMCdp5UzmMV7J2-lruRadYmTdcON_ypt7Jp75jWjb15Z51km1LoWYOpm7gEo4OjTi4hl1f5wMWrCn8MXQhld2yJ2H3XYnRtXdLHjdJOAdwHEhEW7JcnHfhReoCDk3fwXDGVJCzuqllzkoYwif5T7SSi1rLnRTdiT3w0dlgFZBk_kXjI_ZVChN_7gV8IjzLvc0NTNg6pTZkNlD7MTWzsazH4t2hyWFAyegM3og3eV8h4QWoYWXn2EdakFIMm5Y59pE5nRvKVl2OEPNUmOqgtMyVRuOHif2pUKLaCm7_Vub7MaE9rTu57bWwTM40u9SyEniwas0L-F6LF_BR05qiisXtAhsZXl_xLtuGH6Y2a1tR82UhS24phLxNLfy7zqnF3bo5TtelYEqAqAdP4Cfbs_Q9ALqBvUQZXQhwGeBb2V1P_tFgPzDweKKbLHBrcEFB27yITnDYHsAf0a7D8K2dlQ34z_cXECgpmw" height="244" style=""></iframe>
