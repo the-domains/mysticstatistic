@@ -4,9 +4,9 @@
         <description><![CDATA[that mystic statistic...]]></description>
         <link>http://mysticstatistic.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 11 Feb 2018 20:06:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Feb 2018 20:06:50 GMT</lastBuildDate>
         <atom:link href="http://mysticstatistic.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 11 Feb 2018 20:06:22 GMT</pubDate>
+        <pubDate>Sun, 11 Feb 2018 20:06:49 GMT</pubDate>
         <item>
             <title><![CDATA[Data maturity modelling]]></title>
             <description><![CDATA[<pre><code>&lt;div id=&quot;fb-root&quot;&gt;&lt;/div&gt;
@@ -23,14 +23,7 @@
         </item>
         <item>
             <title><![CDATA[Planning Intelligence Product (2 of 6)]]></title>
-            <description><![CDATA[<pre><code>&lt;div id=&quot;fb-root&quot;&gt;&lt;/div&gt;
-&lt;script&gt;(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = &apos;https://connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;version=v2.12&amp;appId=685425478513623&amp;autoLogAppEvents=1&apos;;
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, &apos;script&apos;, &apos;facebook-jssdk&apos;));&lt;/script&gt;</code></pre>,<h1>Planning Intelligence Product (2 of 6)</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/932e9e99-3bec-4e27-af38-75e4a5d19a9a.jpg">,<h2>What are you going to learn in this blog</h2>,<p>You're going to learn about what we've used in regard to planning activity and managing the delivery cycle. You're going to see our cycle, and how we managed backlog. And you're going to see that as a function we flex based on need of customer. Customer is, after all… King. You're also going to learn than 6 months after setting up a new team, certain process are still quite fluid and dynamic as we settle into what works for us.</p>,<p>Right, before we start let's recognise that there's a cycle of activity in the planning section. You engage, then capture, record and schedule(=planning=this bit), deliver, review and restart. But the planning side is key, I've seen teams that haven't got a good handle on planning undermine their credibility and really struggle to demonstrate value because they'll start moving into a place where triage is a method of prioritising and that's not a good place to be.</p>]]></description>
+            <description><![CDATA[<h1>Planning Intelligence Product (2 of 6)</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/932e9e99-3bec-4e27-af38-75e4a5d19a9a.jpg">,<h2>What are you going to learn in this blog</h2>,<p>You're going to learn about what we've used in regard to planning activity and managing the delivery cycle. You're going to see our cycle, and how we managed backlog. And you're going to see that as a function we flex based on need of customer. Customer is, after all… King. You're also going to learn than 6 months after setting up a new team, certain process are still quite fluid and dynamic as we settle into what works for us.</p>,<p>Right, before we start let's recognise that there's a cycle of activity in the planning section. You engage, then capture, record and schedule(=planning=this bit), deliver, review and restart. But the planning side is key, I've seen teams that haven't got a good handle on planning undermine their credibility and really struggle to demonstrate value because they'll start moving into a place where triage is a method of prioritising and that's not a good place to be.</p>]]></description>
             <link>http://mysticstatistic.com/planning-intelligence-product-2-of-6/index.html</link>
             <guid isPermaLink="false">d9321c1e-5262-47ff-929d-783751b6bdfc</guid>
             <pubDate>Fri, 02 Feb 2018 21:58:08 GMT</pubDate>
