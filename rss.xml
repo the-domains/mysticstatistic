@@ -4,9 +4,9 @@
         <description><![CDATA[that mystic statistic...]]></description>
         <link>http://mysticstatistic.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 11 Feb 2018 20:03:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Feb 2018 20:04:07 GMT</lastBuildDate>
         <atom:link href="http://mysticstatistic.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 11 Feb 2018 20:03:22 GMT</pubDate>
+        <pubDate>Sun, 11 Feb 2018 20:04:06 GMT</pubDate>
         <item>
             <title><![CDATA[Data maturity modelling]]></title>
             <description><![CDATA[<pre><code>&lt;div id=&quot;fb-root&quot;&gt;&lt;/div&gt;
@@ -37,7 +37,14 @@
         </item>
         <item>
             <title><![CDATA[The grind : Idea Generation (1 of 6)]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/041142c4-e5a8-4a63-8fcf-e9f19282655a.png">,<h1>The grind : Idea Generation (1 of 6)</h1>,<p>So for my first blog I thought I'd talk you through our delivery cycle, with one blog per section, stuff we do as a team and any lessons we've learnt that we might spare you from being burnt from. The sections as we see them are</p>,<ol><li>Idea Generation</li><li>Planning &amp; Management</li><li>Delivery</li><li>Sign off</li></ol>,<p>And a couple of supporting elements</p>,<ol><li>Engagement</li><li>Strategy</li></ol>,<p>If this is your first read, i’d recommend reading the “about me” section, as it’s useful background.</p>]]></description>
+            <description><![CDATA[<pre><code>&lt;div id=&quot;fb-root&quot;&gt;&lt;/div&gt;
+&lt;script&gt;(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = &apos;https://connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;version=v2.12&amp;appId=685425478513623&amp;autoLogAppEvents=1&apos;;
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, &apos;script&apos;, &apos;facebook-jssdk&apos;));&lt;/script&gt;</code></pre>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/041142c4-e5a8-4a63-8fcf-e9f19282655a.png">,<h1>The grind : Idea Generation (1 of 6)</h1>,<p>So for my first blog I thought I'd talk you through our delivery cycle, with one blog per section, stuff we do as a team and any lessons we've learnt that we might spare you from being burnt from. The sections as we see them are</p>,<ol><li>Idea Generation</li><li>Planning &amp; Management</li><li>Delivery</li><li>Sign off</li></ol>,<p>And a couple of supporting elements</p>,<ol><li>Engagement</li><li>Strategy</li></ol>,<p>If this is your first read, i’d recommend reading the “about me” section, as it’s useful background.</p>]]></description>
             <link>http://mysticstatistic.com/the-grind-idea-generation-1-of-6/index.html</link>
             <guid isPermaLink="false">e96d59bb-e528-4142-aff3-8bf585d1de03</guid>
             <pubDate>Tue, 30 Jan 2018 22:19:20 GMT</pubDate>
