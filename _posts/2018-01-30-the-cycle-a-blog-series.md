@@ -4,8 +4,8 @@ description: >-
   So for my first blog I thought I'd talk you through our delivery cycle, with
   one blog per section, stuff we do as a team and any lessons we've learnt that
   we might spare you from being burnt from. The sections as we see them are
-dateModified: '2018-01-30T23:00:49.910Z'
-datePublished: '2018-01-30T23:00:51.346Z'
+dateModified: '2018-02-11T20:04:05.013Z'
+datePublished: '2018-02-11T20:04:05.834Z'
 title: 'The grind : Idea Generation (1 of 6)'
 author: []
 publisher: {}
@@ -18,6 +18,15 @@ url: the-grind-idea-generation-1-of-6/index.html
 _type: Article
 
 ---
+<div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.12&appId=685425478513623&autoLogAppEvents=1';
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/041142c4-e5a8-4a63-8fcf-e9f19282655a.png)
 
 # The grind : Idea Generation (1 of 6)
@@ -54,7 +63,7 @@ I pretty much make this a staple for every project. If we as a team of data expe
 
 ### **Provide data with operational value, not just analytical value**
 
-I hate hate hate the connotation of dashboards so much that I refer to things we produce as data or intelligence product because it might be a dashboard, but it might be a data driven alert, or a workflow process. But bigger than that, I hate being shoehorned into thinking BI tools provide an interesting view of the past. Data is locked away in systems that can help operational, day to day decisions too, and I think that's the place they need to be deployed. 
+I hate hate hate the connotation of dashboards so much that I refer to things we produce as data or intelligence product because it might be a dashboard, but it might be a data driven alert, or a workflow process. But bigger than that, I hate being shoehorned into thinking BI tools provide an interesting view of the past. Data is locked away in systems that can help operational, day to day decisions too, and I think that's the place they need to be deployed.
 
 We're looking at a project right now, which will use Master Data Management and some pretty innovative data mining - to provide a report driven, google-esque view to the team that deal with referrals for children right at the first contact. When a child referral presents, this product will allow someone to search quickly and get relevant intelligence back within a few seconds. Family members, extended (data mined, it's super sexy!) network included identified risks (peodophiles, known Child Sexual Exploitation risks etc), closeness to those risks, geographic considerations, previous contact history and tons of other stuff that would take 30 minutes easy to gather by traditionally navigating the front end systems. THIS is what powerBI is all about. THIS is what you should focus on. THIS is the sort of thing that could maybe even provide the intelligence to improve a child's life.
 
@@ -89,3 +98,5 @@ I am fortunate to be surrounded by supportive leadership. My manager gives me a 
 The art of idea generation is by sparking some creativity within a group of people. The art of idea generation is not by demonstrating you know better, but showing the art of the possible - by showing them things can be better. You need to disrupt the organisations relationship with data as much as possible, so you need to deploy quickly, and effectively and couple that with a comprehensive campaign of positive comms at all levels of the business and to do that you need to understand your customer, you need to encourage your team and you need to identify tactical wins for your business. It's like starting a fire - a lot of effort needs to go in to start with, but when it catches, it'll require minimal maintenance and provide a lot of energy back.
 
 Hopefully there's something in there that's at least a little helpful?
+
+    <div class="fb-comments" data-href="http://mysticstatistic.com/" data-numposts="5"></div>
