@@ -4,8 +4,8 @@ description: >-
   So for my first blog I thought I'd talk you through our delivery cycle, with
   one blog per section, stuff we do as a team and any lessons we've learnt that
   we might spare you from being burnt from. The sections as we see them are
-dateModified: '2018-02-11T20:06:21.233Z'
-datePublished: '2018-02-11T20:06:22.099Z'
+dateModified: '2018-02-11T20:31:11.718Z'
+datePublished: '2018-02-11T20:31:12.487Z'
 title: 'The grind : Idea Generation (1 of 6)'
 author: []
 publisher: {}
@@ -90,4 +90,4 @@ The art of idea generation is by sparking some creativity within a group of peop
 
 Hopefully there's something in there that's at least a little helpful?
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkdFLwzAQxt_7V4QKawtb6qZTce3AwRBBfPJNRLLkumVbk5K7Fof4v3t1FXzL3f24fN93hbGdsKaMq80keE_xssi5tYwK1ME2tEyr1mmy3qVmLHDMbCa-IiE6FcSe62qPohRGboHWR6jBEa5Or2r7ompIMXu7fF8wbSuR_mdWpyeT8qpMBKA2uJ4ZFukAimDgeMOCB9IanllzxiQGzWWyI2rwPs-1dw40yUpp2Hh_kA4oB_fxuMrRHOQeLz6rTX0sp6MOArKVspvJ6WykmubJlDd38-vZ_Pr2bj69upldjVRL_tlvH5pm3fVuymnSf8s-ZaMCd168AWkdQqAVVD5AOuSQLaLv1Hjd9srHIjknmPDrT9lkj6woybJFkQ_5RlFU9DfQR4X4ewbt698YY2EUqckuQFXGvVe2Wp-QrEZSZPuHZDYfONfWjUfWG8__jvgDfAqc5Q" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx9U11vozAQfOdXrHIPkFwL7w3NiQan5QQmAnJVnyoHO8UnvopNquja_35LSdJKPR2ykO0dz3hn1y6Xe5D8esKleu7Voy46wfhk4ToYWBiuyjvZ6oVhOLOZMQNIyDKOIkJ94sMypqvgdpN4WRBT-OUlgXcTkvQKiB9k4FEfNnREZ5DdEUjJ8h15Q8L4HrIYApqSJAP_gXpRsESGcENSWCVxBA_xJoF16GWrOIkgTmAZpfZwgZB4CYX7uwfwySqgAb0duFPyoQ8BjmgdJ5lHsysotG7VleOMCdp5UzmMV7J2-lruRadYmTdcON_ypt7Jp75jWjb15Z51km1LoWYOpm7gEo4OjTi4hl1f5wMWrCn8MXQhld2yJ2H3XYnRtXdLHjdJOAdwHEhEW7JcnHfhReoCDk3fwXDGVJCzuqllzkoYwif5T7SSi1rLnRTdiT3w0dlgFZBk_kXjI_ZVChN_7gV8IjzLvc0NTNg6pTZkNlD7MTWzsazH4t2hyWFAyegM3og3eV8h4QWoYWXn2EdakFIMm5Y59pE5nRvKVl2OEPNUmOqgtMyVRuOHif2pUKLaCm7_Vub7MaE9rTu57bWwTM40u9SyEniwas0L-F6LF_BR05qiisXtAhsZXl_xLtuGH6Y2a1tR82UhS24phLxNLfy7zqnF3bo5TtelYEqAqAdP4Cfbs_Q9ALqBvUQZXQhwGeBb2V1P_tFgPzDweKKbLHBrcEFB27yITnDYHsAf0a7D8K2dlQ34z_cXECgpmw" height="244" style=""></iframe>
