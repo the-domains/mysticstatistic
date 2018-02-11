@@ -7,8 +7,8 @@ description: >-
   customer. Customer is, after all… King. You're also going to learn than 6
   months after setting up a new team, certain process are still quite fluid and
   dynamic as we settle into what works for us.
-dateModified: '2018-02-11T20:03:20.878Z'
-datePublished: '2018-02-11T20:03:21.647Z'
+dateModified: '2018-02-11T20:06:46.978Z'
+datePublished: '2018-02-11T20:06:48.262Z'
 title: Planning Intelligence Product (2 of 6)
 author: []
 publisher: {}
@@ -21,15 +21,6 @@ url: planning-intelligence-product-2-of-6/index.html
 _type: Article
 
 ---
-<div id="fb-root"></div>
-    <script>(function(d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
-      js = d.createElement(s); js.id = id;
-      js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.12&appId=685425478513623&autoLogAppEvents=1';
-      fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));</script>
-
 # Planning Intelligence Product (2 of 6)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/932e9e99-3bec-4e27-af38-75e4a5d19a9a.jpg)
 
@@ -87,4 +78,4 @@ So that's our planning cycle. I've told you about the journey we've been on, som
 
 Also the next blog post will be more interesting for the more technical of you out there : solution design and delivery process.
 
-    <div class="fb-comments" data-href="http://mysticstatistic.com/" data-numposts="5"></div>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkdFLwzAQxt_7V4QKawtb6qZTce3AwRBBfPJNRLLkumVbk5K7Fof4v3t1FXzL3f24fN93hbGdsKaMq80keE_xssi5tYwK1ME2tEyr1mmy3qVmLHDMbCa-IiE6FcSe62qPohRGboHWR6jBEa5Or2r7ompIMXu7fF8wbSuR_mdWpyeT8qpMBKA2uJ4ZFukAimDgeMOCB9IanllzxiQGzWWyI2rwPs-1dw40yUpp2Hh_kA4oB_fxuMrRHOQeLz6rTX0sp6MOArKVspvJ6WykmubJlDd38-vZ_Pr2bj69upldjVRL_tlvH5pm3fVuymnSf8s-ZaMCd168AWkdQqAVVD5AOuSQLaLv1Hjd9srHIjknmPDrT9lkj6woybJFkQ_5RlFU9DfQR4X4ewbt698YY2EUqckuQFXGvVe2Wp-QrEZSZPuHZDYfONfWjUfWG8__jvgDfAqc5Q" height="244" style=""></iframe>
