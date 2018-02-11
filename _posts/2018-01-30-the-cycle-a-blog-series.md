@@ -4,8 +4,8 @@ description: >-
   So for my first blog I thought I'd talk you through our delivery cycle, with
   one blog per section, stuff we do as a team and any lessons we've learnt that
   we might spare you from being burnt from. The sections as we see them are
-dateModified: '2018-02-11T20:41:17.607Z'
-datePublished: '2018-02-11T20:41:18.428Z'
+dateModified: '2018-02-11T20:41:29.760Z'
+datePublished: '2018-02-11T20:41:30.492Z'
 title: 'The grind : Idea Generation (1 of 6)'
 author: []
 publisher: {}
