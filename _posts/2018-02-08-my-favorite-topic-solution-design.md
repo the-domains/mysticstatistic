@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: and the link between data maturity and solution design.
-dateModified: '2018-02-11T20:34:23.573Z'
-datePublished: '2018-02-11T20:34:24.687Z'
+dateModified: '2018-02-11T20:40:46.117Z'
+datePublished: '2018-02-11T20:40:46.946Z'
 title: Data maturity modelling
 author: []
 publisher: {}
@@ -94,4 +94,4 @@ Hopefully that you should never go big bang, and that your solution design and i
 
 PEACE!
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtU01vozAQvfMrRtkDJNvCYW8NzYoGJ2XFRwRkq54iBzvFK76KTapo2_--49J0q-1KCNme5_dm3oxdJo4g2PWECfk4yJ0qe07ZZOE6GFgYrix60amFYTizmTEDSMkyiSIS-8SHZRKvgvU29fIgieGnlwbeTUiyKyB-kIMX-7CNR3QO-S2BjCxfkTckTO4gTyCIM5Lm4N_HXhQskSHckgxWaRLBfbJNYRN6-SpJI0hSWEaZrRMIiZfGcHd7Dz5ZBXEQrzV3Rv7qQ4BftEnS3IvzKyiV6uSV44wF2kVbO5TVonGGRhx5L2lVtIw7X4q2OYiHoadKtM3lkfaC7isuZw6WbuAW3hwacXANh6EpNBasKfw2VCmk3dEHbg99hVEti6r1SSpRSIWseqHl5wCOAynvKlpw2HhrstumITwJVcKpHXrQLKaEgjZtIwpagQ6fE_ogJBhvlDgI3qPet_kn1sBH54NVQNLP5Fj848DhA8W7wMvcwKKtc3m6Ok3tJ7GZj619a-AtGh0GMRndwRxYWww1El6A1Du7wFlSnFRcH1rmOEvmdG5IW_YFQsxzc_616UOzeL3nzP4lzddrXHlK9WI_KG6ZjCp6qUTN8WLdmRfwteFP4KOmNUUVi9klDjM8P2Mu-5adpjbtOt6wZSkqZkmEvEwt_LvOeczdpn1bbipOJQfeaE_gBz3S7DUAqoWjQBlVcnAp4Hs5XE_-M2TfMbA7000WeKRdkNC1T7znDPYn8Ee061B8b-_KfwDmnyms" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkdFLwzAQxt_7V4QKawtb6qZTce3AwRBBfPJNRLLkumVbk5K7Fof4v3t1FXzL3f24fN93hbGdsKaMq80keE_xssi5tYwK1ME2tEyr1mmy3qVmLHDMbCa-IiE6FcSe62qPohRGboHWR6jBEa5Or2r7ompIMXu7fF8wbSuR_mdWpyeT8qpMBKA2uJ4ZFukAimDgeMOCB9IanllzxiQGzWWyI2rwPs-1dw40yUpp2Hh_kA4oB_fxuMrRHOQeLz6rTX0sp6MOArKVspvJ6WykmubJlDd38-vZ_Pr2bj69upldjVRL_tlvH5pm3fVuymnSf8s-ZaMCd168AWkdQqAVVD5AOuSQLaLv1Hjd9srHIjknmPDrT9lkj6woybJFkQ_5RlFU9DfQR4X4ewbt698YY2EUqckuQFXGvVe2Wp-QrEZSZPuHZDYfONfWjUfWG8__jvgDfAqc5Q" height="244" style=""></iframe>
