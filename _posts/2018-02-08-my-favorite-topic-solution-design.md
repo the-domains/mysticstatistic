@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: and the link between data maturity and solution design.
-dateModified: '2018-02-11T20:02:37.087Z'
-datePublished: '2018-02-11T20:02:37.920Z'
+dateModified: '2018-02-11T20:07:19.047Z'
+datePublished: '2018-02-11T20:07:20.095Z'
 title: Data maturity modelling
 author: []
 publisher: {}
@@ -15,15 +15,6 @@ url: data-maturity-modelling/index.html
 _type: Article
 
 ---
-<div id="fb-root"></div>
-    <script>(function(d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
-      js = d.createElement(s); js.id = id;
-      js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.12&appId=685425478513623&autoLogAppEvents=1';
-      fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));</script>
-
 # Data maturity modelling
 
 and the link between data maturity and solution design.
@@ -103,4 +94,4 @@ Hopefully that you should never go big bang, and that your solution design and i
 
 PEACE!
 
-    <div class="fb-comments" data-href="http://mysticstatistic.com/" data-numposts="5"></div>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkdFLwzAQxt_7V4QKawtb6qZTce3AwRBBfPJNRLLkumVbk5K7Fof4v3t1FXzL3f24fN93hbGdsKaMq80keE_xssi5tYwK1ME2tEyr1mmy3qVmLHDMbCa-IiE6FcSe62qPohRGboHWR6jBEa5Or2r7ompIMXu7fF8wbSuR_mdWpyeT8qpMBKA2uJ4ZFukAimDgeMOCB9IanllzxiQGzWWyI2rwPs-1dw40yUpp2Hh_kA4oB_fxuMrRHOQeLz6rTX0sp6MOArKVspvJ6WykmubJlDd38-vZ_Pr2bj69upldjVRL_tlvH5pm3fVuymnSf8s-ZaMCd168AWkdQqAVVD5AOuSQLaLv1Hjd9srHIjknmPDrT9lkj6woybJFkQ_5RlFU9DfQR4X4ewbt698YY2EUqckuQFXGvVe2Wp-QrEZSZPuHZDYfONfWjUfWG8__jvgDfAqc5Q" height="244" style=""></iframe>
