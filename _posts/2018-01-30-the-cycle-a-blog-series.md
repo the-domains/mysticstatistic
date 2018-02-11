@@ -4,8 +4,8 @@ description: >-
   So for my first blog I thought I'd talk you through our delivery cycle, with
   one blog per section, stuff we do as a team and any lessons we've learnt that
   we might spare you from being burnt from. The sections as we see them are
-dateModified: '2018-02-11T20:04:05.013Z'
-datePublished: '2018-02-11T20:04:05.834Z'
+dateModified: '2018-02-11T20:06:21.233Z'
+datePublished: '2018-02-11T20:06:22.099Z'
 title: 'The grind : Idea Generation (1 of 6)'
 author: []
 publisher: {}
@@ -18,15 +18,6 @@ url: the-grind-idea-generation-1-of-6/index.html
 _type: Article
 
 ---
-<div id="fb-root"></div>
-    <script>(function(d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
-      js = d.createElement(s); js.id = id;
-      js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.12&appId=685425478513623&autoLogAppEvents=1';
-      fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));</script>
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/041142c4-e5a8-4a63-8fcf-e9f19282655a.png)
 
 # The grind : Idea Generation (1 of 6)
@@ -99,4 +90,4 @@ The art of idea generation is by sparking some creativity within a group of peop
 
 Hopefully there's something in there that's at least a little helpful?
 
-    <div class="fb-comments" data-href="http://mysticstatistic.com/" data-numposts="5"></div>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkdFLwzAQxt_7V4QKawtb6qZTce3AwRBBfPJNRLLkumVbk5K7Fof4v3t1FXzL3f24fN93hbGdsKaMq80keE_xssi5tYwK1ME2tEyr1mmy3qVmLHDMbCa-IiE6FcSe62qPohRGboHWR6jBEa5Or2r7ompIMXu7fF8wbSuR_mdWpyeT8qpMBKA2uJ4ZFukAimDgeMOCB9IanllzxiQGzWWyI2rwPs-1dw40yUpp2Hh_kA4oB_fxuMrRHOQeLz6rTX0sp6MOArKVspvJ6WykmubJlDd38-vZ_Pr2bj69upldjVRL_tlvH5pm3fVuymnSf8s-ZaMCd168AWkdQqAVVD5AOuSQLaLv1Hjd9srHIjknmPDrT9lkj6woybJFkQ_5RlFU9DfQR4X4ewbt698YY2EUqckuQFXGvVe2Wp-QrEZSZPuHZDYfONfWjUfWG8__jvgDfAqc5Q" height="244" style=""></iframe>
