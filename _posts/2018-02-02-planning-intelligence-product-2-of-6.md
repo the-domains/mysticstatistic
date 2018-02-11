@@ -7,8 +7,8 @@ description: >-
   customer. Customer is, after all… King. You're also going to learn than 6
   months after setting up a new team, certain process are still quite fluid and
   dynamic as we settle into what works for us.
-dateModified: '2018-02-02T22:00:36.124Z'
-datePublished: '2018-02-02T22:00:36.883Z'
+dateModified: '2018-02-11T20:03:20.878Z'
+datePublished: '2018-02-11T20:03:21.647Z'
 title: Planning Intelligence Product (2 of 6)
 author: []
 publisher: {}
@@ -21,6 +21,15 @@ url: planning-intelligence-product-2-of-6/index.html
 _type: Article
 
 ---
+<div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.12&appId=685425478513623&autoLogAppEvents=1';
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
 # Planning Intelligence Product (2 of 6)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/932e9e99-3bec-4e27-af38-75e4a5d19a9a.jpg)
 
@@ -77,3 +86,5 @@ That discussion then is fed up to a directorate board, where we can challenge an
 So that's our planning cycle. I've told you about the journey we've been on, some of the challenges we faced and continue to face. The technology we use and process... the engagement model which teases our planning, and escalation and prioritisation process. What I haven't talked about is technology and solution planning and I'll cover that in the next blog. I'd challenge anybody that said their model worked brilliantly while at the same time moving at a good pace, and I stand by the decisions we've made and steps we've taken. We've work to do, but we're becoming much more robust daily. Fun fun fun!!!
 
 Also the next blog post will be more interesting for the more technical of you out there : solution design and delivery process.
+
+    <div class="fb-comments" data-href="http://mysticstatistic.com/" data-numposts="5"></div>
