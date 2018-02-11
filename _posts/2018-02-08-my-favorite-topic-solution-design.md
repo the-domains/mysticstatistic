@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: and the link between data maturity and solution design.
-dateModified: '2018-02-09T10:54:04.787Z'
-datePublished: '2018-02-09T10:54:05.934Z'
+dateModified: '2018-02-11T20:02:37.087Z'
+datePublished: '2018-02-11T20:02:37.920Z'
 title: Data maturity modelling
 author: []
 publisher: {}
@@ -15,6 +15,15 @@ url: data-maturity-modelling/index.html
 _type: Article
 
 ---
+<div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.12&appId=685425478513623&autoLogAppEvents=1';
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
 # Data maturity modelling
 
 and the link between data maturity and solution design.
@@ -93,3 +102,5 @@ There's questions that need to be answered in another blog, this is big enough -
 Hopefully that you should never go big bang, and that your solution design and investment in approach should align to the risk of your customers' needs changing - something that's absolutely impacted by their maturity. That building production ready, mass consumption mini models is completely appropriate, as is cross referencing those - and that your design methodology should become more robust alongside the needs of the business. Agility is key - if you can't deliver at the speed of the demand your customers will go elsewhere, presume it can't be done and create something themselves which is uncontrolled and on unknown technology. A worse risk, you'll build something that is unable to flex at the pace of the business and ultimately turn off the business and represent a waste of development.
 
 PEACE!
+
+    <div class="fb-comments" data-href="http://mysticstatistic.com/" data-numposts="5"></div>
